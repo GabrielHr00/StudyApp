@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SchatzSuche</string>
+    <string name="searchForPersonCourse">search for a course/person...</string>
+    <string name="Person">Person</string>
+    <string name="course">Course</string>
+    <string name="teaching">Teaching:</string>
+    <string name="informatik_fakultaet">Informatik Fakultaet</string>
+    <string name="textview">TextView</string>
+    <string name="informatik_fakultat">Informatik fakultät</string>
+    <string name="philosphie">philosphie</string>
+    <string name="romanistik">romanistik</string>
+    <string name="geschichte">geschichte</string>
+    <string name="rechtwissenschaft">rechtwissenschaft</string>
+    <string name="wirtschaftswissenschaft">wirtschaftswissenschaft</string>
+    <string name="informatik">informatik</string>
+    <string name="uni_wien_bachelor_studiums">Uni Wien Bachelor Studiums</string>
+</resources>
